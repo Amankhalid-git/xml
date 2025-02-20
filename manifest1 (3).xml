@@ -4,10 +4,10 @@
   xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0"
   xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides" xsi:type="MailApp">
 	<Id>39815775-ed04-4510-a1b9-7669ac1d8781</Id>
-	<Version>1.0.1</Version>
+	<Version>10.25</Version>
 	<ProviderName>ExSign</ProviderName>
 	<DefaultLocale>en-US</DefaultLocale>
-	<DisplayName DefaultValue="ExSign - My Signatures"/>
+	<DisplayName DefaultValue="ExSign - My Signatures push testing"/>
 	<Description DefaultValue="Signature Add-in by ExSign."/>
 	<IconUrl DefaultValue="https://downloads.hostingcontroller.com/utilities/ExSign/Images/ExSign64.png"/>
 	<HighResolutionIconUrl DefaultValue="https://downloads.hostingcontroller.com/utilities/ExSign/Images/ExSign128.png"/>
