@@ -30,7 +30,6 @@
 		</Form>
 	</FormSettings>
 	<Permissions>ReadWriteMailbox</Permissions>
-	  <IsVisible>true</IsVisible> <!-- Add this line -->
 	<Rule xsi:type="ItemIs" ItemType="Message" FormType="Edit"/>
 	<DisableEntityHighlighting>false</DisableEntityHighlighting>
 
